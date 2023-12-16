@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FB Login Clone</string>
+    <string name="email_phone_num">Email or phone number</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="signup">Signup For Facebook</string>
+    <string name="help_center">Help Center</string>
+    <string name="facebook_logo">Facebook Logo</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FB Login Clone</string>
+    <string name="email_phone_num">البريد الألكتروني أو رقم التليفون</string>
+    <string name="password">كلمة السر</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="signup">الاشتراك في فيس بوك</string>
+    <string name="help_center">مركز المساعدة</string>
+    <string name="facebook_logo">لوجو فيس بوك</string>
+</resources>
